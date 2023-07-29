@@ -37,7 +37,7 @@ const projectList = [
     url: "https://twitter.com/ZaynabKareem2/status/1678880274912796672?s=20",
   },
   {
-    title: "Sales Analysis for San MArtins Store",
+    title: "Sales Analysis for San Martins Store",
     description:
       "Analyzed Sales data that which include geography data to help San Martins Store understand what's happenong with sales.",
     url: "https://twitter.com/ZaynabKareem2/status/1653026008293945344?s=20",
