@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/firmbee-com-gcsNOsPEXfs-unsplash.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Fashion Data Analytics: Competitive Analysis for Trendy Dazyl Sportiers",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Analyzed fashion data to derive insights for a brand looking to break into the indusrty.",
+    url: "https://twitter.com/ZaynabKareem2/status/1678880274912796672?s=20",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Sales Analysis for San MArtins Store",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Analyzed Sales data that which include geography data to help San Martins Store understand what's happenong with sales.",
+    url: "https://twitter.com/ZaynabKareem2/status/1653026008293945344?s=20",
   },
   {
-    title: "My Resume Site",
+    title: "Google Data Analytics course: Data Cleaning ",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Cleaned data provided from the google data analytics course to solidy my knowlwdge from the course.",
+    url: "https://twitter.com/ZaynabKareem2/status/1559162137343401984?s=20",
   },
 ];
 
